@@ -2,13 +2,13 @@
 NIDSystem is an ID based project which saves informations and this also handle Admin and user with different files.
 
 
-Main Features:
-1.Login With Username and Password.
-2.Save User Data to a file.
-3.Read User data from a file.
-4.Edit User Data.
-5.Delete User Data.
-6.Partial Search with Name / Father’s name / City name .
+Main Features:<br />
+1.Login With Username and Password.<br />
+2.Save User Data to a file.<br />
+3.Read User data from a file.<br />
+4.Edit User Data.<br />
+5.Delete User Data.<br />
+6.Partial Search with Name / Father’s name / City name .<br />
 
 
 
